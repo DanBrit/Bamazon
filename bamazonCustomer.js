@@ -1,5 +1,4 @@
 const displayTable  = require("./displayTable.js");
-const validateInput = require("./validateInput.js");
 
 const colors   = require("colors");
 const inquirer = require("inquirer");
